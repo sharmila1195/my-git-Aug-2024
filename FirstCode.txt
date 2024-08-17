@@ -1,2 +1,3 @@
 Hello World!!!
 This is going in my second commit!!!
+Skipping the staging area!!!
